@@ -6,5 +6,9 @@ public class PracticeOne {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public void remoteMethod(){
+	// this is from remote Repo	
+	}
 
 }
